@@ -13,3 +13,9 @@ git config --global user.name "shyamanth"
 git config --global init.defaultBranch main
 git config --global --list
 git init
+git add .
+git commit -m "Initial commit"
+git remote add origin https://github.com/Shyamanth/events-app-internal.git
+git push -u origin main
+git push -u origin main
+git init
